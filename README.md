@@ -7,9 +7,13 @@ In the 'scenario_' files, the VI equations are derived by differentiating the ut
 
 To solve a scenario, the following command is entered into the command window:
 
-[xstar xtmat]=extragradient('inputscenario_',zeta);
-     where:
-     xstar stores the final solution 
-     xtmat stores the result at each iteration of the extragradient algorithm, which will allow analysis on how the solutions evolved     with each iteration 
-     inputscenario_ refers to the scenario being solved 
-     zeta is the step size 
+     [xstar xtmat]=extragradient('inputscenario_',zeta);
+where:
+
+-xstar stores the final solution  
+
+-xtmat stores the result at each iteration of the extragradient algorithm, which will allow analysis on how the solutions evolved     with each iteration
+
+-inputscenario_ refers to the scenario being solved
+
+-zeta is the step size 
