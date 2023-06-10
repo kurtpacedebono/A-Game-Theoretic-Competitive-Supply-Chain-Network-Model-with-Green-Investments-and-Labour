@@ -1,4 +1,4 @@
-# A-Game-Theoretic-Competitive-Supply-Chain-Network-Model-with-Green-Investments-and-Labour
+# A Game Theoretic Competitive Supply Chain Network Model with Green Investments and Labour
 By Kurt Pace Debono, Maria Kontorinaki, Monique Sciortino 
 
 The constraints and initial solutions are stored for each scenario in the 'inputscenario_' file, where _ is replaced with the corresponding number of the scenario. 
